@@ -1,2 +1,2 @@
 # my_projects
-[如何在网页中插入公式](fomula.html)
+$\int_0^1 x^2 dx={1\over{3}}$
