@@ -6,6 +6,7 @@
 ***
 
 # 关于manim_projects文件夹中的代码  
+---
 此项目中的代码需要配置manim后才能运行  
 ### 安装教程
 [卷毛杨的互动视频教程](https://www.bilibili.com/video/BV1ap4y1C7NF)  
