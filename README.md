@@ -8,7 +8,6 @@ drawit.py是一个把图片转换为字符画的项目，运行时需先导入PI
 它的改进版本drawupdater.py，可以输入多个图片名
 ***
 # 关于manim_projects文件夹中的代码  
----
 此项目中的代码需要配置manim后才能运行  
 ### 安装及学习教程
 [卷毛杨的互动视频教程](https://www.bilibili.com/video/BV1ap4y1C7NF)  
