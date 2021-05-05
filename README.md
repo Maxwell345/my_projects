@@ -5,7 +5,7 @@
 
 ***
 drawit.py是一个把图片转换为字符画的项目，运行时需先导入PIL库(在cmd命令行输入pip install PIL),并在py文件的同级目录下新建一个draw.txt文件用来存放生成的字符画  
-它的改进版本drawupdater.py，可以输入多个图片名
+它的改进版本drawupdater.py，可以输入多个图片名;drawplus.py能适应较大宽度的图片。
 ***
 # 关于manim_projects文件夹中的代码  
 此项目中的代码需要配置manim后才能运行  
