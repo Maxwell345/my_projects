@@ -15,10 +15,9 @@
 [碳烤猛犸象的哔哩哔哩个人空间](https://space.bilibili.com/628878578)
 ---
 # Game中是一些C++编写的命令行游戏
-华容道：8数码拼图 
-my_wordle：模拟2022年初很火的wordle猜单词游戏 
-
-clock：模拟计时器 
+华容道：8数码拼图  
+my_wordle：模拟2022年初很火的wordle猜单词游戏  
+clock：模拟计时器  
 ***
 # 其它项目 
 drawit.py是一个把图片转换为字符画的项目，运行时需先导入PIL库(在cmd命令行输入pip install PIL),并在py文件的同级目录下新建一个draw.txt文件用来存放生成的字符画  
